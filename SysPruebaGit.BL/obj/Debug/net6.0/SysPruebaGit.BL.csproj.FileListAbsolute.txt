@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\bin\Debug\net6.0\SysPruebaGit.BL.deps.json
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\bin\Debug\net6.0\SysPruebaGit.BL.dll
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\bin\Debug\net6.0\SysPruebaGit.BL.pdb
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.AssemblyInfo.cs
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.dll
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\refint\SysPruebaGit.BL.dll
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\SysPruebaGit.BL.pdb
+C:\Users\victo\source\repos\SysPruebaGit\SysPruebaGit.BL\obj\Debug\net6.0\ref\SysPruebaGit.BL.dll

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SysPruebaGit.EN
 {
-    internal class Categoria
+    public class Categoria
     {
         public int Id { get; set; }
         public string Nombre { get; set; }
